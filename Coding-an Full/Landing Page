@@ -1,1 +1,45 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Banjir Indonesia</title>
 
+ 
+  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;700&display=swap" rel="stylesheet">
+
+  <link rel="stylesheet" href="LandingPage.css">
+</head>
+<body>
+
+  <section class="hero">
+
+    
+    <img src="assets/images/cloud.png" class="cloud cloud1">
+    <img src="assets/images/cloud (1).png" class="cloud cloud2">
+
+
+   
+    <div class="text">
+      <h2>SUDAH BERAPA KALI <span>INDONESIA</span></h2>
+      <h1>BANJIR?</h1>
+    </div>
+
+    <img src="assets/images/house.png" class="house">
+
+    <div class="ground"></div>
+
+    <div class="water"></div>
+
+   <a href="Statistik.html"> <button class="btn">Mulai</button>
+</a>
+   
+   
+    <div class="footer">
+      <img src="assets/images/Frame 1.png">
+    </div>
+
+  </section>
+
+</body>
+</html>
